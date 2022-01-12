@@ -1,0 +1,29 @@
+.colorPickerForm {
+  width: 40vw;
+  padding: 10px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin: 10px auto;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+  border: 2px dotted #000;
+  border-radius: 10px;
+  background: #fff;
+}
+
+.colorPickerForm legend {
+  color: #fff;
+  background-color: #212121;
+  padding: 7px 10px;
+  border-radius: 10px;
+}
+
+.colorPickerForm input {
+  height: 30px;
+}
+
+.colorPickerForm input[type="text"] {
+  padding: 0 10px;
+}

@@ -1,0 +1,6 @@
+html {
+  width: 100vw;
+  height: 100vh;
+  background: #aaa repeat url('../src/assets/images/background.gif');
+  background-blend-mode: soft-light;
+}
