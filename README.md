@@ -26,10 +26,10 @@ Anything related to setting or changing affirmations should go into the `useAffi
 
 ### Acceptance Criteria
 
-- `useColorPicker` hook implemented
-- `useAffirmation` hook implemented
-- Existing tests pass
-- **STRETCH**: Combine the multiple `useState` calls for the color picker form into one
+- ✔ `useColorPicker` hook implemented
+- ✔ `useAffirmation` hook implemented
+- ✔ Existing tests pass
+- ✔ **STRETCH**: Combine the multiple `useState` calls for the color picker form into one
 - **STRETCH**: Write tests for your custom hooks (see [this post](https://kentcdodds.com/blog/how-to-test-custom-react-hooks) for an example)
 
 ### Rubric
